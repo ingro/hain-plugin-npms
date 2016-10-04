@@ -1,0 +1,23 @@
+{
+  "name": "hain-plugin-npms",
+  "version": "0.1.0",
+  "hain": {
+    "prefix": "/npms",
+    "usage": "Search on npms.io",
+    "icon": "#fa fa-search"
+  },
+  "description": "Hain plugin to search npm packages on npms.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emanuele Ingrosso <ingro85@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "hain-0.5.0"
+  ],
+  "dependencies": {
+    "got": "^6.5.0",
+    "moment": "^2.15.1"
+  }
+}
