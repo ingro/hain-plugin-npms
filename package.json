@@ -1,6 +1,6 @@
 {
   "name": "hain-plugin-npms",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "hain": {
     "prefix": "/npms",
     "usage": "Search on npms.io",
